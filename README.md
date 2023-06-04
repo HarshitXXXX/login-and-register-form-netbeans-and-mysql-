@@ -4,7 +4,7 @@ I have created a project on login and register form using netbeans and mysql.
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src=" ![icons8-enter-50](C:\Users\Harshit Gaikwad\Downloads\login.jpg)
+ <img width=200px height=200px src=" ![icons8-enter-50](HarshitXXXX/login-and-register-form-netbeans-and-mysql-/Screenshot 2023-06-05 045201.png)
   " alt="Project logo"></a>
 </p>
 
@@ -71,14 +71,7 @@ https://github.com/MaheshGadhe2001/Project-3-login-and-register-form-netbeans-an
 
 # Project Views
 
-![Screenshot (33)](https://user-images.githubusercontent.com/126501046/236454507-07a905d4-a280-4c59-bde9-fb7e98b543de.png)
-
-
-![Screenshot (34)](https://user-images.githubusercontent.com/126501046/236454525-900e795c-9ac0-494f-b0d1-792bd3e4d919.png)
-
-
-
-![Screenshot (36)](https://user-images.githubusercontent.com/126501046/236454750-7f0d2226-d42f-4b79-85c0-da7190c91e0c.png)
+![Screenshot (33)](HarshitXXXX/login-and-register-form-netbeans-and-mysql-/login2.png)
 
 # ⛏ Built Using `<a name = "built_using"></a>`
 - JSwing and JFrames - Windows based application
